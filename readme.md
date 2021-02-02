@@ -46,5 +46,5 @@ It is intended for this test to take roughly an hour to complete. You are free t
 
 ### How to submit
 
-Clone this and push to a private github repository and then add @<INSERT YOU> as a collaborator when completed.
+Clone this and push to a private github repository and then add @paran01d as a collaborator when completed.
 
